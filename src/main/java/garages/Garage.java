@@ -23,7 +23,7 @@ public class Garage {
 	@Override
 	public String toString() {
 		return "Garage " + name;
-		int i = 1 ;
+		
 	}
 
 }
